@@ -20,7 +20,11 @@ apt install -y git
 # Optionally, you can add more tools or packages here
 
 # Display a message to indicate that the installation is complete
-echo "All necessary tools have been installed."
+echo "
+++++++++++++++++++++++++++++++++++++++++
+All necessary tools have been installed.
+++++++++++++++++++++++++++++++++++++++++
+"
 
 # Exit the script
 exit 0
