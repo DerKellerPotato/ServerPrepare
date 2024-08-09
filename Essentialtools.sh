@@ -11,7 +11,8 @@ apt update
 
 # Install necessary tools and packages
 apt install -y nano       
-apt install -y docker.io  
+apt install -y docker.io
+apt install -y docker-compose  
 apt install -y curl       
 apt install -y wget       
 apt install -y git        
